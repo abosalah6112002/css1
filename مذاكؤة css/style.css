@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 4000px;
+}
+nav{
+    display: flex;
+    background-image: url("blue_bg.png");
+
+    
+}
+.n{
+    
+    bottom: 350px;
+    margin-left: 300px;
+    margin: 30px;
+    left: 200px;
+
+}
+.h1-h1{
+    position: relative;
+    bottom: 40px;
+    
+}
+.left{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 30px;
+
+}
+.login{
+    position: absolute;
+    top: -20px;
+    left: 20px;
+}
+
+
+
+
+.div{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    
+    background-image: url("blue_bg.png");
+    border-bottom-right-radius: 60%;
+    border-bottom-left-radius: 80%;
+}
+.div1{
+
+margin-left: 100px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}.relative{
+    width: 600px;
+    height: 300px;
+    position: relative;
+    bottom: 100px;
+}
+.abslute{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    top: 40px;
+    left: 80px;
+
+}
+.img1{
+    position: absolute;
+    right: 100px;
+    top: 200px;
+}
+.immg{
+    position: absolute;
+    right: 200px;
+    top: 250px;
+}
+    
+  .mg{
+    margin-left: 40px;
+  }  
+  .sec{
+    margin-left: 50px;
+    width: 1000px;
+  }
+
+.fo{
+    display: flex;
+    justify-content: space-around;
+}
+.nu1{
+    position: relative;
+    bottom: 450px;
+    right: 200px;
+    
+}
+.gr{
+    position: relative;
+    bottom: 450px;
+    right: 400px;
+    bottom: 300px;
+}
+.sec{
+    display: flex;
+    justify-content: space-around;
+}
+.rell{
+    position: relative;
+    bottom: 300px;
+}
+.ab{
+    position: absolute;
+    bottom: 60px;
+    left: 40px;
+}
+.gr1{
+    position: relative;
+    bottom: 300px;
+    left: 100px;
+}
+.art{
+    display: flex;
+    justify-content: space-around;
+}
+.reel{
+position: relative;
+
+
+}
+.absoo{
+    position: absolute;
+    left: 700px;
+    bottom: 200px;
+}
+.cl5{
+    display: flex;
+    justify-content: space-around;
+}
+.re1{
+    position: relative;
+     bottom: 400px;
+     right: 100px;
+
+
+}
+.abc{
+    position: relative;
+    bottom: 400px;
+    right: 650px;
+
+}
+.en{
+    position: absolute;
+    right: 70px;
+    top: 2px;
+}
+.h6{
+position: absolute;
+right: 6px;
+bottom: -10px;
+
+}
+.sto{
+    position: absolute;
+    right: 70px;
+    top: 2px;
+
+}
+.fin{
+display: flex;
+}
+.total{
+    position: relative;
+    bottom: 350px;
+    margin-left: 200px;
+    margin: 10px;
+    left: 200px;
+}
+.end{
+    display: flex;
+    
+}
+.end2{
+    position: relative;
+    bottom: 350px;
+    margin-left: 200px;
+    margin: 10px;
+    left: 200px;
+
+
+}
